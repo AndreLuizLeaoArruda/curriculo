@@ -34,6 +34,7 @@
       Políticas de backup em servidores e desktops.
 
   #### **Projetos Autônomos:**
-      Desenvolvimento de sistemas, em PHP/MySQL, para controle de entrada/saída de produtos, para avaliação de músicas e 
-      poesias em festival, para registro de visitantes e para leitura/importação de dados de notas fiscais.
+      Desenvolvimento de sistemas, em PHP/MySQL, para controle de entrada/saída de produtos, para 
+      para avaliação de músicas e poesias em festival, para registro de visitantes e para 
+      leitura/importação de dados de notas fiscais.
       Apresentados em https://github.com/AndreLuizLeaoArruda/projetos
