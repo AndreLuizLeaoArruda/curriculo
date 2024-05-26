@@ -1,5 +1,5 @@
 # ANDRÉ LUIZ LEÃO ARRUDA
-#### Brasileiro, casado, 48 anos.	CNH AB. <br> Rua: Edmundo Heusi Júnior, 278 - Cidade Nova – Itajaí – SC. CEP 88.308-530. <br> Telefone/Whatsapp: (47) 9 9613-5250. 	E-mail: andreluizleaoarruda@gmail.com.
+#### Brasileiro, casado, 48 anos.	CNH AB. <br> Rua: Edmundo Heusi Júnior, 278 - Cidade Nova – Itajaí – SC. CEP 88.308-530. <br> Telefone/Whatsapp: (47) 9 9613-5250. 	E-mail: andreluizleaoarruda@gmail.com. <br> GitHub:https://github.com/AndreLuizLeaoArruda
 
 ## DESENVOLVEDOR FULL-STACK JÚNIOR
 ### FORMAÇÃO:
@@ -34,4 +34,6 @@
       Políticas de backup em servidores e desktops.
 
   #### **Projetos Autônomos:**
-      Desenvolvimento de sistemas, em PHP/MySQL, para controle de entrada/saída de produtos, para avaliação de músicas e poesias em festival, para registro de visitantes e para leitura/importação de dados de notas fiscais.
+      Desenvolvimento de sistemas, em PHP/MySQL, para controle de entrada/saída de produtos, para avaliação de músicas e 
+      poesias em festival, para registro de visitantes e para leitura/importação de dados de notas fiscais.
+      Apresentados em https://github.com/AndreLuizLeaoArruda/projetos
