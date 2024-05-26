@@ -33,8 +33,11 @@
       Responsável pelas aquisições de produtos de informática.
       Políticas de backup em servidores e desktops.
 
-  #### **Projetos Autônomos:**
-      Desenvolvimento de sistemas, em PHP/MySQL, para controle de entrada/saída de produtos, para 
-      para avaliação de músicas e poesias em festival, para registro de visitantes e para 
-      leitura/importação de dados de notas fiscais.
-      Apresentados em https://github.com/AndreLuizLeaoArruda/projetos
+  #### **Projetos Autônomos: <br> &nbsp; &nbsp; &nbsp; Desenvolvimento de sistemas, em PHP/MySQL:**
+      - Para controle de entrada/saída de produtos, 
+      - Para avaliação de músicas e poesias em festival,
+      - Para registro de visitantes,
+      - Para leitura/importação de dados de notas fiscais.
+      
+  Projetos disponíveis para consulta em https://github.com/AndreLuizLeaoArruda/projetos
+      
