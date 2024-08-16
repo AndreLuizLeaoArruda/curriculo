@@ -1,7 +1,7 @@
 # ANDRÉ LUIZ LEÃO ARRUDA
 #### Brasileiro, casado, 49 anos.	CNH AB. <br> Rua: Edmundo Heusi Júnior, 278 - Cidade Nova – Itajaí – SC. CEP 88.308-530. <br> (47) 9 9613-5250. 	<br> andreluizleaoarruda@gmail.com. <br> https://github.com/AndreLuizLeaoArruda
 
-## SUPORTE TÉCNICO COM FOCO EM ATENDIMENTO E DESENVOLVEDOR FULL-STACK JÚNIOR
+## SUPORTE TÉCNICO COM FOCO EM ATENDIMENTO E DESENVOLVEDOR FULL-STACK 
 ### FORMAÇÃO:
   #### **Pós-graduações:**
       Controladoria e Finanças (EAD) – UNIASSELVI (2022).
