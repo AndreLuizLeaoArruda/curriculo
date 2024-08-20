@@ -16,7 +16,7 @@
       Instalação e Cabeamento de Linhas Telefônicas, SENAC, 2002 (90 horas).
       Projeto e Implantação de Redes de Computadores, SENAC, 2002 (60 horas).
       Manutenção de Microcomputadores, SENAI, 1999 (80 horas).
-### EXPERIÊNCIA:
+### EXPERIÊNCIAS:
   #### **POLÍCIA MILITAR DE SANTA CATARINA. <br> &nbsp; &nbsp; &nbsp; Responsável Técnico (01/09/1993 a 30/09/2003 e 18/11/2009 a 11/01/2021):**
       Manutenções em hardware, software, redes de computadores e telefonia.
       Gerenciamento de servidores Linux e Windows.
