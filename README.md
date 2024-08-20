@@ -2,7 +2,7 @@
 #### Brasileiro, casado, 49 anos.	CNH AB. <br> Rua: Edmundo Heusi Júnior, 278 - Cidade Nova – Itajaí – SC. CEP 88.308-530. <br> (47) 9 9613-5250. 	<br> andreluizleaoarruda@gmail.com. <br> https://github.com/AndreLuizLeaoArruda
 
 ## SUPORTE TÉCNICO COM FOCO EM ATENDIMENTO E DESENVOLVEDOR FULL-STACK 
-### FORMAÇÃO:
+### FORMAÇÕES:
   #### **Pós-graduações:**
       Controladoria e Finanças (EAD) – UNIASSELVI (2022).
       Ciência de Dados (EAD) – UNIASSELVI (2022).
@@ -24,12 +24,14 @@
       Apoio a empresas terceirizadas de TI.
       Elaboração e revisão de documentações.
       Desenvolvimento de planilhas em Excel.
+      Pesquisa de preços para aquisição de produtos de informática.
 
   #### **ARTEPLAS ARTEFATOS DE PLÁSTICOS LTDA. <br> &nbsp; &nbsp; &nbsp; Chefe de CPD (01/10/2003 a 13/10/2009):**
       Manutenções em hardware, software, redes de computadores e telefonia.
       Suporte e treinamento de colaboradores.
       Apoio ao administrador do Banco de Dados SQL, para o ERP TOTVS.
       Gerenciamento de servidores Linux e Windows.
+      Responsável pelas aquisições de produtos de informática.
       Políticas de backup em servidores e alguns desktops.
       Controle de acesso à internet, gerenciamento de antivírus e licenças.
 
